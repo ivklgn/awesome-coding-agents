@@ -96,6 +96,7 @@
 | 👀 | [ContextStream](https://github.com/contextstream/mcp-server) | context, mcp, coding-agents | Shared project context for Cursor, Claude Code, Codex, Grok. Site https://contextstream.io. MCP https://mcp.contextstream.io/mcp. Intelligence isn’t the bottleneck. Context is. |
 | 👀 | [Bhawna Skills](https://github.com/saketvishal/bhawna-skills) | decision-memory, architecture-guardrails, invariants, cli, local-first | Decision memory and architecture guardrails for AI coding agents. |
 | 👀 | [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | memory, encrypted, mcp, rust | iCloud for agents. An encrypted, permissioned knowledge layer for humans and agents. |
+| 👀 | [Archcore](https://github.com/archcore-ai/archcore) | context-engineering, spec-driven, mcp, git-native | Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git. |
 
 ## Token Savers
 
